@@ -68,11 +68,11 @@
 
 ## 📊 GitHub статистика
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_title=true&count_private=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=julipel&show_icons=true&hide_title=true&count_private=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julipel&layout=compact&theme=default)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=julipel)
 
 
 ## 🎯 Подход
