@@ -52,7 +52,6 @@
 
 ### 🌱 RAG Knowledge Base
 **База знаний + RAG**
-- JSONL-карточки
 - векторная БД
 - региональная логика (Россия)  
 🔗 https://github.com/USERNAME/rag-knowledge-base
