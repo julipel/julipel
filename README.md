@@ -6,29 +6,38 @@
 
 ## 🧠 Чем я занимаюсь
 
--Разрабатываю AI-ассистентов для сотрудников и клиентов
--Создаю RAG-системы на основе корпоративных баз знаний
--Автоматизирую бизнес-процессы и обработку данных
--Проектирую Telegram-ботов для поддержки, обучения и работы с клиентами
--Помогаю внедрять AI-инструменты в реальные бизнес-задачи
+Создаю AI-ассистентов, корпоративные базы знаний, Telegram-ботов и инструменты автоматизации для бизнеса.
+Помогаю компаниям превращать знания, документы и рабочие процессы в удобные цифровые сервисы,
+которые экономят время сотрудников и повышают эффективность работы.
 
 
 ## 🛠️ Стек и инструменты
 
 ### AI / LLM
 ![OpenAI](https://img.shields.io/badge/OpenAI-LLM-black)
-![RAG](https://img.shields.io/badge/RAG-Vector_DB-blue)
+![RAG](https://img.shields.io/badge/RAG-Knowledge_Systems-blue)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-purple)
+![Embeddings](https://img.shields.io/badge/Embeddings-Vector_Search-blueviolet)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_DB-5A67D8)
 
 ### Automation / Backend
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
-![n8n](https://img.shields.io/badge/n8n-workflows-orange)
-![Docker](https://img.shields.io/badge/Docker-containerization-blue)
+![n8n](https://img.shields.io/badge/n8n-Workflows-orange)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688)
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED)
+![SQLite](https://img.shields.io/badge/SQLite-Database-003B57)
 
-### Integrations
+### Interfaces
 ![Telegram](https://img.shields.io/badge/Telegram-Bots-2CA5E0)
+![HTMX](https://img.shields.io/badge/HTMX-Web_UI-3366CC)
+![Jinja2](https://img.shields.io/badge/Jinja2-Templates-B41717)
+
+### Data & Integrations
 ![Google Sheets](https://img.shields.io/badge/Google-Sheets-green)
+![Google Drive](https://img.shields.io/badge/Google-Drive-4285F4)
+![Gmail](https://img.shields.io/badge/Gmail-Automation-EA4335)
 ![REST API](https://img.shields.io/badge/API-REST-lightgrey)
+![Webhooks](https://img.shields.io/badge/Webhooks-Event_Driven-orange)
 
 
 ## 📌 Pinned-проекты
@@ -42,7 +51,7 @@ RAG-система с корпоративной базой знаний для 
 Быстрый доступ к экспертным знаниям
 Снижение нагрузки на специалистов
 Единый стандарт ответов
-🔗 https://github.com/USERNAME/ai-assistant
+🔗 https://github.com/julipel/Pardus-R_rag_bot
 
 
 ###📊AI Data Assistant
@@ -54,7 +63,7 @@ RAG-система с корпоративной базой знаний для 
 Сокращение времени на анализ информации
 Автоматизация подготовки документов
 Упрощение работы с данными
-🔗 https://github.com/USERNAME/hr-matching-agent
+🔗 https://github.com/julipel/Data-assistant_app
 
 
 ### 🔗 Автоматизация обработки заявок
@@ -66,7 +75,7 @@ RAG-система с корпоративной базой знаний для 
 Исключение ручного ввода
 Ускорение обработки заявок
 Повышение качества данных
-🔗 https://github.com/USERNAME/rag-knowledge-base
+🔗 https://github.com/julipel/n8n-Gmail-INN-Automation
 
 
 ### 📄 Telegram-боты для бизнеса
@@ -78,7 +87,7 @@ RAG-система с корпоративной базой знаний для 
 Автоматизация коммуникаций
 Сокращение рутинных операций
 Улучшение клиентского сервиса 
-🔗 https://github.com/USERNAME/ai-business-tools
+🔗 https://github.com/julipel/onboard-training_bot
 
 
 ## 📊 GitHub статистика
@@ -92,15 +101,17 @@ RAG-система с корпоративной базой знаний для 
 
 ##🎯 Интересы
 
-AI Assistants
-RAG Systems
-Business Automation
-Knowledge Management
-Telegram Bots
-AI Solutions for Business
+-AI Assistants
+-RAG Systems
+-Business Automation
+-Knowledge Management
+-Telegram Bots
+-AI Solutions for Business
 
 
-## 📬 Контакты
+## 📬 Связаться со мной
+
+Открыта к сотрудничеству, интересным проектам и задачам в области AI и автоматизации бизнеса.
 
 - GitHub: https://github.com/julipel  
  
