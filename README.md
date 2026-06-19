@@ -54,7 +54,7 @@ RAG-система с корпоративной базой знаний для 
 🔗 https://github.com/julipel/Pardus-R_rag_bot
 
 
-###📊AI Data Assistant
+### 📊AI Data Assistant
 
 Ассистент для анализа данных, работы с файлами и подготовки отчетов.
 
@@ -99,7 +99,7 @@ RAG-система с корпоративной базой знаний для 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=julipel)
 
 
-##🎯 Интересы
+## 🎯 Интересы
 
 -AI Assistants
 -RAG Systems
