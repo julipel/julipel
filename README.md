@@ -109,12 +109,12 @@ RAG-система с корпоративной базой знаний для 
 -AI Solutions for Business
 
 
-## 📬 Связаться со мной
+## 📬 Контакты
 
 Открыта к сотрудничеству, интересным проектам и задачам в области AI и автоматизации бизнеса.
 
 - GitHub: https://github.com/julipel  
- 
+- Email: jplavinsky@gmail.com 
 - Telegram: @JuliPlavinski  
 
 
