@@ -1,125 +1,97 @@
-# 👋 Привет
 
-Я создаю AI-ассистентов и системы управления знаниями, которые помогают бизнесу масштабировать экспертизу,
-ускорять работу сотрудников и снижать нагрузку на команды поддержки.
+# Привет, я Юлия 👋
 
+### AI Engineer · Agentic Systems · Product Development
 
-## 🧠 Чем я занимаюсь
+Разрабатываю интеллектуальные системы и AI-продукты — от идеи и архитектуры до работающего приложения.
 
-Создаю AI-ассистентов, корпоративные базы знаний, Telegram-ботов и инструменты автоматизации для бизнеса.
-Помогаю компаниям превращать знания, документы и рабочие процессы в удобные цифровые сервисы,
-которые экономят время сотрудников и повышают эффективность работы.
+Мне интересно не просто подключить языковую модель к интерфейсу, а построить систему, в которой AI умеет работать с информацией, выбирать инструменты, выполнять последовательности действий и взаимодействовать с реальными сервисами.
 
+**Мой подход — AI там, где он действительно нужен. Надёжная программная логика там, где она работает лучше.**
 
-## 🛠️ Стек и инструменты
+---
 
-### AI / LLM
-![OpenAI](https://img.shields.io/badge/OpenAI-LLM-black)
-![RAG](https://img.shields.io/badge/RAG-Knowledge_Systems-blue)
-![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-purple)
-![Embeddings](https://img.shields.io/badge/Embeddings-Vector_Search-blueviolet)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_DB-5A67D8)
+## ⚡ Что я создаю
 
-### Automation / Backend
-![Python](https://img.shields.io/badge/Python-3.10+-blue)
-![n8n](https://img.shields.io/badge/n8n-Workflows-orange)
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688)
-![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED)
-![SQLite](https://img.shields.io/badge/SQLite-Database-003B57)
+**AI-агенты и интеллектуальные системы**  
+Агенты с инструментами, управлением контекстом, памятью и контролируемым выполнением действий.
 
-### Interfaces
-![Telegram](https://img.shields.io/badge/Telegram-Bots-2CA5E0)
-![HTMX](https://img.shields.io/badge/HTMX-Web_UI-3366CC)
-![Jinja2](https://img.shields.io/badge/Jinja2-Templates-B41717)
+**AI-платформы и приложения**  
+Самостоятельные программные продукты с backend-архитектурой, API, интеграциями и пользовательскими интерфейсами.
 
-### Data & Integrations
-![Google Sheets](https://img.shields.io/badge/Google-Sheets-green)
-![Google Drive](https://img.shields.io/badge/Google-Drive-4285F4)
-![Gmail](https://img.shields.io/badge/Gmail-Automation-EA4335)
-![REST API](https://img.shields.io/badge/API-REST-lightgrey)
-![Webhooks](https://img.shields.io/badge/Webhooks-Event_Driven-orange)
+**RAG и системы знаний**  
+Решения, которые находят и используют информацию из документов, баз данных и внешних источников.
 
+**Автоматизация и интеграции**  
+Рабочие процессы, объединяющие AI, программную логику и существующие сервисы.
 
-## 📌 Pinned-проекты
+---
 
-### 🤖 AI-консультант по медицинскому оборудованию
-RAG-система с корпоративной базой знаний для консультаций по продукту,
-техническим характеристикам и документации.
+## 🛠 Технологии
 
-Результат для бизнеса:
+**Languages & Backend**  
+Python · FastAPI · SQLAlchemy · REST API
 
-Быстрый доступ к экспертным знаниям
+**AI & Agents**  
+LLM APIs · LangGraph · LangChain · RAG · Tool Calling · Prompt Engineering
 
-Снижение нагрузки на специалистов
+**Data & Infrastructure**  
+PostgreSQL · Qdrant · ChromaDB · Docker · Git
 
-Единый стандарт ответов
+**Automation & Interfaces**  
+n8n · Telegram Bot API · Webhooks · External APIs
 
-🔗 https://github.com/julipel/Pardus-R_rag_bot
+**AI-assisted Development**  
+Codex · Claude Code · Cursor
 
+---
 
-### 📊 Агентная платформа для автоматизации клиентских консультаций
+## 🚀 Избранные проекты
 
-Универсальная платформа, позволяющая компаниям запускать собственных AI-агентов без разработки отдельного решения под каждый бизнес.
+### [Tessera — агентная AI-платформа](https://github.com/julipel/Tessera)
 
-🔗https://github.com/julipel/Tessera
+Платформа для создания AI-консультантов, работающих с корпоративными знаниями, каталогами и внешними инструментами.
 
+Агент управляет многошаговым диалогом, самостоятельно выбирает разрешённые инструменты и выполняет действия в контролируемых границах.
 
-### 🔗 Автоматизация обработки заявок
+**Фокус:** `Agent Architecture` · `RAG` · `Tool Calling` · `API Integration`
 
-Решение для автоматического сбора, проверки и структурирования данных из входящих обращений.
+### [Pardus-R — интеллектуальный консультант](https://github.com/julipel/Pardus-R_rag_bot)
 
-Результат для бизнеса:
+RAG-система для работы с технической документацией медицинского оборудования.
 
-Исключение ручного ввода
+Помогает находить сведения в базе знаний и формировать ответы на основе доступных источников.
 
-Ускорение обработки заявок
+**Фокус:** `RAG` · `Knowledge Retrieval` · `LLM` · `Python`
 
-Повышение качества данных
+### [Gmail INN Automation — интеллектуальная обработка писем](https://github.com/julipel/n8n-Gmail-INN-Automation)
 
-🔗 https://github.com/julipel/n8n-Gmail-INN-Automation
+Автоматизация обработки входящей корреспонденции с извлечением структурированных данных, проверкой корректности и интеграцией с Google Sheets.
 
+**Фокус:** `n8n` · `LLM Extraction` · `Validation` · `Workflow Automation`
 
-### 📄 ИИ-ассистированный нормоконтроль
+---
 
-Методика и набор Python-скриптов для AI-ассистированного нормоконтроля проектной документации: LLM + Vision, анализ PDF-чертежей, поиск межраздельных противоречий и генерация отчётов.
+## 🔬 За пределами текущих проектов
 
-Результат для бизнеса:
+Исследую возможности агентного AI: от надёжного выполнения отдельных задач до систем, способных самостоятельно планировать действия, работать с инструментами и адаптироваться к изменяющимся условиям.
 
-Экономия времени: автоматизация рутинных проверок чертежей и документов.
+Особенно интересуют:
 
-Снижение рисков: выявление несоответствий и противоречий до передачи проекта на экспертизу или реализацию.
+- Архитектура и оркестрация AI-агентов
+- Мультиагентные системы
+- AI-native продукты и новые сценарии их применения
+- Память, контекст и управление знаниями
+- Оценка качества, надёжность и безопасность агентных систем
 
-Стандартизация контроля: единая методика проверки и структурированные отчёты с замечаниями. 
+---
 
-🔗 https://github.com/julipel/onboard-training_bot
+## 🤝 Сотрудничество
 
+Открыта к интересным техническим задачам, разработке AI-продуктов и совместным экспериментам.
 
-## 📊 GitHub статистика
+Если у вас есть идея, которую хочется превратить в работающую систему, — давайте обсудим.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=julipel&show_icons=true&hide_title=true&count_private=true&theme=default)
+**Telegram:** [@JuliPlavinski](https://t.me/JuliPlavinski)  
+**Email:** jplavinsky@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julipel&layout=compact&theme=default)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=julipel)
-
-
-## 🎯 Интересы
-
--AI Assistants
--RAG Systems
--Business Automation
--Knowledge Management
--Telegram Bots
--AI Solutions for Business
-
-
-## 📬 Контакты
-
-Открыта к сотрудничеству, интересным проектам и задачам в области AI и автоматизации бизнеса.
-
-- GitHub: https://github.com/julipel  
-- Email: jplavinsky@gmail.com 
-- Telegram: @JuliPlavinski  
-
-
-⭐ Если проекты полезны — ставьте звёзды и подписывайтесь
